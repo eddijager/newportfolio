@@ -23,7 +23,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Meu novo portfólio, feito com html, css e js, para apresentar os projetos que irei desenvolver no decorrer da minha carreia. como Dev Full Stack com foco em Front-end, aplicando alguns conhecimentos de Responsividade, Animação e UX/Mobile.</p>
+<p>Meu novo portfólio, feito com html, css e js, para apresentar os projetos que irei desenvolver no decorrer da minha carreia. como Dev Full Stack com foco em Front-end, aplicando alguns conhecimentos de Responsividade, Animação e UX/Mobile ( Experimenta Diminuir a Tela ver).</p>
 
 
 
