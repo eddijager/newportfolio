@@ -1,6 +1,5 @@
 # NewPortfolio
-
-[NPM](https://img.shields.io/npm/l/ssd?label=license&logo=MIT&logoColor=%23FFFF&style=plastic)"
+![NPM](https://img.shields.io/npm/l/ssd?label=license&logo=MIT&logoColor=%23FFFF&style=plastic)"
 
 <h1>:<a href="https://eddijager.github.io/NewPortfolio/"> Portfólio </a></h1>
 
